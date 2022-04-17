@@ -1,2 +1,2 @@
 user: ..
-state: init
+state: initiated but not fully initiated
